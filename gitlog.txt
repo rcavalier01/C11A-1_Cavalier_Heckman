@@ -1,3 +1,15 @@
+commit 2045ddc96b64b195b0c4f1f9e35605d1fe03002d
+Author: rcavalier01 <rcavalier@mines.edu>
+Date:   Thu Feb 15 12:06:17 2024 -0700
+
+    Final Commit for project
+
+commit ab4623ba54a939a6941ac99bd2d996b81a6a768b
+Author: rcavalier01 <rcavalier@mines.edu>
+Date:   Thu Feb 15 12:02:17 2024 -0700
+
+    Files added, readme and gitlog
+
 commit 63eccca6f6ba19ccc517f90e5d6c934e262efe03
 Author: Alexander Heckman <aheckman1@mines.edu>
 Date:   Wed Feb 14 13:05:14 2024 -0700
