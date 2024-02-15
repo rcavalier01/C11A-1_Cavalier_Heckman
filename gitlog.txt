@@ -1,0 +1,47 @@
+commit 63eccca6f6ba19ccc517f90e5d6c934e262efe03
+Author: Alexander Heckman <aheckman1@mines.edu>
+Date:   Wed Feb 14 13:05:14 2024 -0700
+
+    Made the meow more centered and had it be lower bellow the cat
+
+commit 3ad768fe1f51ea630d01008ddb5b103febae836c
+Author: rcavalier01 <rcavalier@mines.edu>
+Date:   Wed Feb 14 13:04:16 2024 -0700
+
+    Rachel made bigger eyes for the cats
+
+commit f2f3a2a6a0f6d6cb3a5ecac15110ccabb7278a78
+Author: Alexander Heckman <aheckman1@mines.edu>
+Date:   Wed Feb 14 13:03:11 2024 -0700
+
+    Made the cat meow for longer in the text
+
+commit 7507b7c85be80850e01409bc2682f50e56516670
+Author: rcavalier01 <rcavalier@mines.edu>
+Date:   Wed Feb 14 13:01:31 2024 -0700
+
+    made the cats red -Rachel
+
+commit 0f443f1d7a593dd69aaf1eaf8521d1925f331494
+Author: Alexander Heckman <aheckman1@mines.edu>
+Date:   Wed Feb 14 12:59:40 2024 -0700
+
+    Made second cat appear to bottom right
+
+commit 93e6f14b8713686b0a81c369e93e46ae8deca08c
+Author: rcavalier01 <rcavalier@mines.edu>
+Date:   Wed Feb 14 12:52:22 2024 -0700
+
+    Rachel made window for frame bigger
+
+commit fe66bc4ee4e6fe1586ba2baa813e704c4dcda75b
+Author: Alexander Heckman <aheckman1@mines.edu>
+Date:   Wed Feb 14 12:50:33 2024 -0700
+
+    Made cat appear slightly to the right and down
+
+commit 57d6063934c7eecd41306d718087f3a272cfe27b
+Author: rcavalier01 <rcavalier@mines.edu>
+Date:   Wed Feb 14 12:39:27 2024 -0700
+
+    This is the initialized repo for C11C, Rachel Cavalier as driver/repo owner
